@@ -35,7 +35,7 @@ FLAGS:
    -o, --output      Output filename to save results
 ```
 
-## Advance Usage Examples
+## Advanced Usage Examples
 DNS Enumeration (100 Threads, 200ms Delay, Output to results.txt):  
 `./subby -u <domain> -w </path/to/wordlist> -t 100 -d 200 -o results.txt`
 
